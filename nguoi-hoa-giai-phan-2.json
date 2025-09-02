@@ -1,0 +1,35 @@
+{
+  "data": {
+    "item": {
+      "_id": "68a82ca5d7011447ff659380",
+      "name": "Người Hòa Giải (Phần 2)",
+      "slug": "nguoi-hoa-giai-phan-2",
+            "content": "In season 2, Peacemaker discovers an alternate world where life is everything he wishes it could be. But this discovery also forces him to face his traumatic past and take the future into his own hands.",
+      "type": "series",
+      "status": "ongoing",
+      "thumb_url": "nguoi-hoa-giai-phan-2-thumb.jpg",
+      "poster_url": "nguoi-hoa-giai-phan-2-poster.jpg",
+      "episodes": [
+        {
+          "server_name": "Vietsub #1",
+          "server_data": [
+            {
+              "name": "1",
+              "slug": "1",
+              "filename": "Tập 1 Người Hòa Giải Mùa 2 - 8 Tập   VieON",
+              "link_embed": "https://vip.opstream90.com/share/e7fdeae58bfddf97dba9f1f67abf5921",
+              "link_m3u8": "https://vip.opstream90.com/20250822/11019_e7fdeae5/index.m3u8"
+            },
+            {
+              "name": "2",
+              "slug": "2",
+              "filename": "Tập 2 Người Hòa Giải Mùa 2 - 8 Tập   VieON",
+              "link_embed": "https://vip.opstream90.com/share/d346256ad566cf97801e5cecc45a2557",
+              "link_m3u8": "https://vip.opstream90.com/20250902/11594_d346256a/index.m3u8"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
