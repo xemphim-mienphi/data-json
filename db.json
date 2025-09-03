@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Avengers: Endgame",
+    "poster": "https://via.placeholder.com/300x450/333333/ffffff?text=Avengers",
+    "year": 2019,
+    "rating": 8.4,
+    "type": "movie",
+    "duration": "181 phút",
+    "description": "Sau những sự kiện tàn khốc của Avengers: Infinity War, vũ trụ đang tan hoang. Với sự giúp đỡ của các đồng minh còn lại, Avengers tập hợp lại một lần nữa để đảo ngược hành động của Thanos và khôi phục lại sự cân bằng cho vũ trụ.",
+    "embedUrl": "https://www.youtube.com/embed/TcMBFSGVi1c"
+  },
+  {
+    "id": 2,
+    "title": "Stranger Things",
+    "poster": "https://via.placeholder.com/300x450/333333/ffffff?text=Stranger+Things",
+    "year": 2016,
+    "rating": 8.7,
+    "type": "series",
+    "duration": "50 phút/tập",
+    "description": "Khi một cậu bé biến mất một cách bí ẩn, một thị trấn nhỏ đã khám phá ra một bí mật khó hiểu liên quan đến các thí nghiệm bí mật, các lực lượng siêu nhiên đáng sợ và một cô gái nhỏ kỳ lạ.",
+    "episodes": [
+      { "id": 1, "title": "Chương Một: Sự biến mất của Will Byers", "embedUrl": "https://www.youtube.com/embed/b9EkMc79ZSU" },
+      { "id": 2, "title": "Chương Hai: Kẻ điên trên phố Maple", "embedUrl": "https://www.youtube.com/embed/b9EkMc79ZSU" },
+      { "id": 3, "title": "Chương Ba: Chớp nháy", "embedUrl": "https://www.youtube.com/embed/b9EkMc79ZSU" }
+    ]
+  }
+  ...
+]
