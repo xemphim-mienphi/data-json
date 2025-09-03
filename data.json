@@ -1,60 +1,62 @@
 {
-
   "data": {
- 
-    "items": [
-      {
-      
-  "id": "1",
-  "name": " Người Hòa Giải (Phần 2)",
-  "slug": "nguoi-hoa-giai-phan-2",
-  "poster_url": "https://i.ytimg.com/vi/L1l6DPwKG-Q/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBeNZNmbobjTnQFr6YUenGNZTK1cQ",
-  "description": "Thám tử lừng danh Conan xoay quanh câu chuyện về chàng thám tử Kudo Shinichi, trong một lần đang điều tra đã bị Tổ chức Áo Đen ép uống thuốc độc, khiến cho cơ thể bị teo nhỏ. Sau đó, Shinichi chuyển đến sống ở nhà của người bạn thuở niên thiếu Ran Mori cùng người bố Kogoro Mori. Tại đây, cậu dùng văn phòng thám tử của ông Kogoro để truy tìm tung tích của tổ chức Áo Đen đồng thời giúp ông phá nhiều vụ án dưới một thân phận mới là Conan Edogawa.",
-  "link_embed": "https://www.youtube.com/embed/L1l6DPwKG-Q"
-},
-{
-  "id": "2",
-  "name": " Thám Tử Lừng Danh Conan - Vụ Án Chuyến Tàu Tốc Hành Bí Ẩn",
-  "slug": "vu-an-chuyen-tau-toc-hanh-bi-an",
-  "poster_url": "https://i.ytimg.com/vi/L1l6DPwKG-Q/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBeNZNmbobjTnQFr6YUenGNZTK1cQ",
-  "description": "Thám tử lừng danh Conan xoay quanh câu chuyện về chàng thám tử Kudo Shinichi, trong một lần đang điều tra đã bị Tổ chức Áo Đen ép uống thuốc độc, khiến cho cơ thể bị teo nhỏ. Sau đó, Shinichi chuyển đến sống ở nhà của người bạn thuở niên thiếu Ran Mori cùng người bố Kogoro Mori. Tại đây, cậu dùng văn phòng thám tử của ông Kogoro để truy tìm tung tích của tổ chức Áo Đen đồng thời giúp ông phá nhiều vụ án dưới một thân phận mới là Conan Edogawa.",
-  "link_embed": "https://www.youtube.com/embed/L1l6DPwKG-Q"
-},
-{
-  "id": "3",
-  "name": " Thám Tử Lừng Danh Conan - Vụ Án Chuyến Tàu Tốc Hành Bí Ẩn",
-  "slug": "vu-an-chuyen-tau-toc-hanh-bi-an",
-  "poster_url": "https://i.ytimg.com/vi/L1l6DPwKG-Q/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBeNZNmbobjTnQFr6YUenGNZTK1cQ",
-  "description": "Thám tử lừng danh Conan xoay quanh câu chuyện về chàng thám tử Kudo Shinichi, trong một lần đang điều tra đã bị Tổ chức Áo Đen ép uống thuốc độc, khiến cho cơ thể bị teo nhỏ. Sau đó, Shinichi chuyển đến sống ở nhà của người bạn thuở niên thiếu Ran Mori cùng người bố Kogoro Mori. Tại đây, cậu dùng văn phòng thám tử của ông Kogoro để truy tìm tung tích của tổ chức Áo Đen đồng thời giúp ông phá nhiều vụ án dưới một thân phận mới là Conan Edogawa.",
-  "link_embed": "https://www.youtube.com/embed/L1l6DPwKG-Q"
-},
-{
-  "id": "4",
-  "name": " Thám Tử Lừng Danh Conan - Vụ Án Chuyến Tàu Tốc Hành Bí Ẩn",
-  "slug": "vu-an-chuyen-tau-toc-hanh-bi-an",
-  "poster_url": "https://i.ytimg.com/vi/L1l6DPwKG-Q/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBeNZNmbobjTnQFr6YUenGNZTK1cQ",
-  "description": "Thám tử lừng danh Conan xoay quanh câu chuyện về chàng thám tử Kudo Shinichi, trong một lần đang điều tra đã bị Tổ chức Áo Đen ép uống thuốc độc, khiến cho cơ thể bị teo nhỏ. Sau đó, Shinichi chuyển đến sống ở nhà của người bạn thuở niên thiếu Ran Mori cùng người bố Kogoro Mori. Tại đây, cậu dùng văn phòng thám tử của ông Kogoro để truy tìm tung tích của tổ chức Áo Đen đồng thời giúp ông phá nhiều vụ án dưới một thân phận mới là Conan Edogawa.",
-  "link_embed": "https://www.youtube.com/embed/L1l6DPwKG-Q"
-},
-{
-  "id": "5",
-  "name": " Thám Tử Lừng Danh Conan - Vụ Án Chuyến Tàu Tốc Hành Bí Ẩn",
-  "slug": "vu-an-chuyen-tau-toc-hanh-bi-an",
-  "poster_url": "https://i.ytimg.com/vi/L1l6DPwKG-Q/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBeNZNmbobjTnQFr6YUenGNZTK1cQ",
-  "description": "Thám tử lừng danh Conan xoay quanh câu chuyện về chàng thám tử Kudo Shinichi, trong một lần đang điều tra đã bị Tổ chức Áo Đen ép uống thuốc độc, khiến cho cơ thể bị teo nhỏ. Sau đó, Shinichi chuyển đến sống ở nhà của người bạn thuở niên thiếu Ran Mori cùng người bố Kogoro Mori. Tại đây, cậu dùng văn phòng thám tử của ông Kogoro để truy tìm tung tích của tổ chức Áo Đen đồng thời giúp ông phá nhiều vụ án dưới một thân phận mới là Conan Edogawa.",
-  "link_embed": "https://www.youtube.com/embed/L1l6DPwKG-Q"
-},
-{
-  "id": "6",
-  "name": " Thám Tử Lừng Danh Conan - Vụ Án Chuyến Tàu Tốc Hành Bí Ẩn",
-  "slug": "vu-an-chuyen-tau-toc-hanh-bi-an",
-  "poster_url": "https://i.ytimg.com/vi/L1l6DPwKG-Q/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBeNZNmbobjTnQFr6YUenGNZTK1cQ",
-  "description": "Thám tử lừng danh Conan xoay quanh câu chuyện về chàng thám tử Kudo Shinichi, trong một lần đang điều tra đã bị Tổ chức Áo Đen ép uống thuốc độc, khiến cho cơ thể bị teo nhỏ. Sau đó, Shinichi chuyển đến sống ở nhà của người bạn thuở niên thiếu Ran Mori cùng người bố Kogoro Mori. Tại đây, cậu dùng văn phòng thám tử của ông Kogoro để truy tìm tung tích của tổ chức Áo Đen đồng thời giúp ông phá nhiều vụ án dưới một thân phận mới là Conan Edogawa.",
-  "link_embed": "https://www.youtube.com/embed/L1l6DPwKG-Q"
-}
-
-
-
-  ]
+    "item": {
+      "id": "6874aad210265ba3d6bd93e0",
+      "name": "Quái Vật Không Gian: Trái Đất",
+      "slug": "quai-vat-khong-gian-trai-dat",
+      "origin_name": "Alien: Earth",
+      "content": "\u003Cp\u003EKhi các thành viên của đội cứu hộ tìm kiếm những người sống sót trong đống đổ nát của một con tàu vũ trụ bí ẩn bị rơi, họ chạm trán với những dạng sống săn mồi bí ẩn đáng sợ hơn họ từng tưởng tượng. Với mối đe dọa mới này, đội tìm kiếm phải chiến đấu để sinh tồn và những gì họ chọn làm với khám phá này có thể thay đổi hành tinh Trái đất mà họ biết.\u003C/p\u003E",
+      "type": "series",
+      "status": "ongoing",
+      "thumb_url": "https://img.ophim.live/uploads/movies/quai-vat-khong-gian-trai-dat-thumb.jpg",      
+      "time": "40 phút/tập",
+      "episode_current": "Tập 7",
+      "episode_total": "? Tập",
+      "quality": "HD",
+      "lang": "Vietsub",
+      "year": 2025,
+      "episodes": [
+        {
+          "server_name": "Vietsub #1",
+          "server_data": [
+             {
+              "name": "1",
+              "slug": "1",
+              "filename": "Alien Earth S01E01 1080p DSNP WEB-DL DDP5 1 H 264-BiOMA",
+              "link_embed": "https://vip.opstream10.com/share/fa7d9e789db0b0f053e0229ebc2aed0e",
+              "link_m3u8": "https://vip.opstream10.com/20250813/30166_fa7d9e78/index.m3u8"
+            },
+            {
+              "name": "2",
+              "slug": "2",
+              "filename": "Alien Earth S01E02 1080p DSNP WEB-DL DDP5 1 H 264-BiOMA",
+              "link_embed": "https://vip.opstream10.com/share/d41296e46a7324f6cc171f27ca576572",
+              "link_m3u8": "https://vip.opstream10.com/20250814/30169_d41296e4/index.m3u8"
+            },
+            {
+              "name": "3",
+              "slug": "3",
+              "filename": "Alien Earth S01E03 1080p DSNP WEB-DL DDP5 1 H 264-BiOMA[EZTVx.to]",
+              "link_embed": "https://vip.opstream10.com/share/dda33670117c841dd91bba9fb7165a03",
+              "link_m3u8": "https://vip.opstream10.com/20250820/30223_dda33670/index.m3u8"
+            },
+            {
+              "name": "4",
+              "slug": "4",
+              "filename": "alien.earth.s01e04.1080p.web.h264-successfulcrab[EZTVx.to]",
+              "link_embed": "https://vip.opstream10.com/share/6829f9bbfb749e6cbea01b5354b5092c",
+              "link_m3u8": "https://vip.opstream10.com/20250827/30265_6829f9bb/index.m3u8"
+            },
+            {
+              "name": "5",
+              "slug": "5",
+              "filename": "Alien.Earth.S01E05.1080p.WEB.h264-ETHEL[EZTVx.to]",
+              "link_embed": "https://vip.opstream10.com/share/81f746c301dac7c69b449a75520a45d8",
+              "link_m3u8": "https://vip.opstream10.com/20250903/30314_81f746c3/index.m3u8"
+            }
+          ]
+        }
+      ]
     }
+  }
 }
